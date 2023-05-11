@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "venox-277522",
+  "private_key_id": "e7cf8f1a1f660f52509fafa7c92f7b6a2443c23c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCp+JTDpJljsaLc\nKQbaAciiaowOqvw04S+u3xCln9VBsyeO3sXvrbZBji2JlvmyYseFqsBdahT/hNY/\n5GOtZDj964N3ZJZFiqFwg+Z2kzPyvlt6IxAUOQAfFqtMZ5KkpnhgKUs5wCio9D3z\ncYm5VriUY1gu5RXHlXufaGAvnTG5r2gj3qkDRyU2hciQik3FNBMmMBC5dBrKxdz9\nLsCDuZPgGgOVxPESOfmpKEquuk48g8T81L9TcGAvZ6+nTkvqKx/MaNSZ9+2or9XL\nDvvkRXKAHHzCCKVOWB22kPGBvr97No4YAD/XUdYr7CJTZlVPN2hOd6RXX7pint/4\nx7IJrf/3AgMBAAECgf8sgEPkQcP3HVpDKnqvRPKDZA2Op0L03z0cweDIFWP7rpvL\nJz5+uD/BlbC9a8CVXB0tjC7JTk1rLLoDRQa5h+GoqVvd/Pfu5gxuZQfY3slFo9CM\nNacuPVSxvJDQT0XSTMDbJSwHmlaBsPyxjNT1B0oSPfBlzYebDMt0vYFuy7VPmhl8\nYU4ur/hl6cBZMTrNMO48kMaXho0BWE6aKoSI+VIekILRJw1Uy7krUw2znLMvYXV7\nJxyZE/Tfjir858kIjsZn6RobsWuBV/S4A9682Oz9BGHd0lMsCudUhuelfNLO/6kl\nSMwnJQt+huJXgWkZX49OaZw3YEFDn/Zok2anRvECgYEA1TSBlWaPT/NWuCjHI8hI\nESNiasHCEHGRRRZENrgXoL2sBpAYF8I4GtbhugneETbKln18aSgcv9O3inI2TzJ6\nk/PcfUSF8Q8y8VfvrwwUAetINRxTrOQnnbyaqvKzb8rrWWv4Jh/axkYAcZ+0R3Fa\nJZFcIxEjm4r5eLTIw5SXl/ECgYEAzBaAdxyeINoaUDLwThllwZza6P5mYvaiGtmr\npnrnyBhVuimNN+9PpTDo2NaHqWP+0YxES2MqSl8CYZ8WkdR7bo05CCMZV+v/MksH\nycg+EMIr/aH5nnxbAxc1G24QgXNFiOV0OfLoHx4caM+9KKzwYYOMM5suXr6/VSTD\nMq+bvmcCgYEAzzF0kQUXVuIrL1LpnBuB9a3GcesUNji3rUUjS24CAELzT3lvAH/N\nWD/lI499UItHu5H9eo/xyHXuk0vE/ZgXyXqeltoltItJvYLwudNqCidlh7+cjZM3\n8LGeOW0c9hJkPwWPJTWlvTPAMKu8XgWJTqMBwE5ipUEcibJevLrFy3ECgYEAsDXp\ne25pFYJa383rb/M7yXxuAmfM7Tt3YWl5bEeIIlrogdDojlgA02c0VCx+e4HL/Q93\n1ANt+0KnIrSiXw0v+ZbTnDP56NDpyXnA4rcS55NPOjGE/hLu3e9GukVA2RQ3AGjk\n/je9tUhhTRm4gAs5jWhwQAqHceSN/Ky+IOBAv5cCgYAGcTMd9VTnkDO31hFw8Vzz\n3UlhPnTxeKOwL3IzlUfEEHD1oncIICUE8XeDgXqu74E8KegjEpPlKBhiFgMhF4gP\noZowL6dTF1OxMvekeDPiNCnLofQxjS2XYTFacJICBwT1L0EqJnMjKHo3IEqihzJ/\nhXxSvC9ir0dtX3FL8kxhWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "venox-670@venox-277522.iam.gserviceaccount.com",
+  "client_id": "107570289403721811222",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/venox-670%40venox-277522.iam.gserviceaccount.com"
+}
